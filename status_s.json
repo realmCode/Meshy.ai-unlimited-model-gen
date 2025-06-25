@@ -1,0 +1,17 @@
+{
+    "code": "OK",
+    "requestId": "Root=1-684464c6-66f101e8030a19eb0be40ccc",
+    "result": {
+        "status": "SUCCEEDED",
+        "progress": 100,
+        "result": {
+            "quadJsonUrl": "",
+            "modelUrl": "https://assets.meshy.ai/9e789816-6ae1-4a0f-8212-8c27df221e23/tasks/01974b1a-79fc-71b0-838a-9aa0cec0e7fb/output/model.glb?Expires=1749427200\u0026Signature=YUN8DjwkA~RwWfm4bU5AzM5M4B4j5DRQIM6znfYBK-WunVV1Ns8xQP~lLsb72DQ~G~A7qBA7O4rlmCIkmgA8FdZu~Mp1VmFmWR0~~eEStc6~aUT1kbhQH4v85uKTSQoc3vt2i4GVqnf9S18vAPhqyoQxPAsIvx6MfGI~P7CqMQr0lr1MpaeupMS-0Q6x8kup~jHPWDzOIvoyTB8rLRWAD6DwUYld8oZQzOYdnOkN6KfqosSzLbY-IiAeaapMXfDVzW6Ue51X0uiH0W~IHSynNJwMDW0bGuJhJWSo2EoS4ZFHWv3upv~vEQnlYXtf7hnbXP79fef9s~84rS4lybebmw__\u0026Key-Pair-Id=KL5I0C8H7HX83",
+            "previewUrl": "https://assets.meshy.ai/9e789816-6ae1-4a0f-8212-8c27df221e23/tasks/01974b1a-79fc-71b0-838a-9aa0cec0e7fb/output/preview.png?Expires=1749427200\u0026Signature=oWE8zSaWltpM6YGVbuFXAyXLqYlBKuRJPAh8NO5CWiWt8f1MsoCePG4KRRligki5AQsLCIBnec9RzhQ49YzRHuSfVsVRH5gg4IO0V4-OnttOIYduO5hrbDu4FuJKlFg9Qr4jUQlGCMH3Y71HBfPiFWBPO7g6xlAo-YKUdoYhHM2jha2DTaHFefbsXVHPJqttOXcesld2gw7sJxGt-SU6zso4L4p50vOa-~KvKw9JT0CM6I6vEhdVOB~INZnMtv6gptPBu-MK5f0wc-GCnUsdnI24YnN-LVuOcYKQA2U4OVEUSRLazjnBhIzNHkGF7ltggP0~IOyWzJ7C5os~gIJE-A__\u0026Key-Pair-Id=KL5I0C8H7HX83",
+            "previewLogoUrl": "https://assets.meshy.ai/9e789816-6ae1-4a0f-8212-8c27df221e23/tasks/01974b1a-79fc-71b0-838a-9aa0cec0e7fb/output/preview.png?Expires=1749427200\u0026Signature=oWE8zSaWltpM6YGVbuFXAyXLqYlBKuRJPAh8NO5CWiWt8f1MsoCePG4KRRligki5AQsLCIBnec9RzhQ49YzRHuSfVsVRH5gg4IO0V4-OnttOIYduO5hrbDu4FuJKlFg9Qr4jUQlGCMH3Y71HBfPiFWBPO7g6xlAo-YKUdoYhHM2jha2DTaHFefbsXVHPJqttOXcesld2gw7sJxGt-SU6zso4L4p50vOa-~KvKw9JT0CM6I6vEhdVOB~INZnMtv6gptPBu-MK5f0wc-GCnUsdnI24YnN-LVuOcYKQA2U4OVEUSRLazjnBhIzNHkGF7ltggP0~IOyWzJ7C5os~gIJE-A__\u0026Key-Pair-Id=KL5I0C8H7HX83",
+            "videoUrl": "https://assets.meshy.ai/9e789816-6ae1-4a0f-8212-8c27df221e23/tasks/01974b1a-79fc-71b0-838a-9aa0cec0e7fb/output/output.mp4?Expires=1749427200\u0026Signature=hxpgbM8IQXmPeknbWK5GxNtTUqhr9Em1D-QiX3qh4O2ftYQS06Wtx86fb7HKValUNBzyaHwzavCmQR2wnFdKVshis~XdtoddAJCAvUVTi~6enEPsljWqsxHZIcv92Bp86YHwZmsmHcoNzZyRnTzZWBSqKS9MaaipKAScLUiBu8VWMQzBcs20h22NInMILC0IGD4-PRG35qCyRHkeul8D2xUZE~6Dz5IpOegfCqf1-nPpeb1Aan0MaFl8JDPRcD8dlS37TE76A9ka79XVC5-pAqTyy~RS6SR~UNqxVo6cPeduDSvMvULDpEJeVF-ayuTS7RpCKBET6vruEbWGKS8A9A__\u0026Key-Pair-Id=KL5I0C8H7HX83",
+            "mhqVideoUrl": ""
+        },
+        "retryCount": 0
+    }
+}
