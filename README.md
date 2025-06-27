@@ -9,3 +9,7 @@ This gives good results for static models. The code is easy to understand.
 Make sure you star this for further automation, botting, reversing or bypass related updates.
 
 This is for educational purposes only, if there is any policy related issues feel free to contact.
+
+IN FUTURE, if i get reaction i will make udemy downloader with complete assets and certificates opensource.
+Here's a glimpse:
+![image](https://github.com/user-attachments/assets/18cb600f-4227-4f84-9402-68cefd29bbff)
