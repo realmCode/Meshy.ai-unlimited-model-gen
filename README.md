@@ -10,7 +10,7 @@ Make sure you star this for further automation, botting, reversing or bypass rel
 
 This is for educational purposes only, if there is any policy related issues feel free to contact.
 
-IN FUTURE, if i get reaction i will make udemy downloader with complete assets and certificates opensource.
+IN FUTURE, if i get reaction i will opensource my udemy downloader with complete assets and certificates.
 Here's a glimpse:
 
 
