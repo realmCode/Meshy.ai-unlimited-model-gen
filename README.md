@@ -1,4 +1,4 @@
-# Meshy.ai-unlimited-model-gen
+# Meshy ai unlimited 3D model gen
 This is lightly reversed project for meshy.ai api, account gen and unlimited model gen.
 
 Feel free for any issues or contribution, if you want any further collaboration on any project check my profile for contacts.
